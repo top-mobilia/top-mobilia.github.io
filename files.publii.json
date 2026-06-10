@@ -1,0 +1,187 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "31a07bcb433c23450e7972ade61c9ab0"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "62a2f78af0273a34c857fead405f6094"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "2110fdcc9616a96348b5f5ad11c64055"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e66ec016e1abd2297b17a5d038b695b7"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "d0fc1030089a37f93a2d51bf6d07565c"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/franca-adams",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/franca-adams/index.html",
+        "type": "file",
+        "md5": "47b30ded141a1d14e7d5a03107890449"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "b6a27d6153200f89f88b56cc98d2fd3c"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "35e2e6b5afaab00a1c4b1de48783908c"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "09cbcfc8f9a08dc21c5ba95d8a6b0afe"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Mobilia-Cleopatra-Logo.webp",
+        "type": "file",
+        "md5": "d15ae83c31afefc4dce17b169693afaf"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-2xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-lg.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-md.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-sm.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xs.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "2153a5478f0d4aa6b53b4d6eb4333eb6"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "d6227a75edfd2b134d0d92b8636b8225"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "897968b75d1509ca0870ae7040c02729"
+    },
+    {
+        "path": "timeless-elegance-a-guide-to-victorian-sofas-and-loveseats-for-modern-homes",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-a-guide-to-victorian-sofas-and-loveseats-for-modern-homes/index.html",
+        "type": "file",
+        "md5": "b8bb78c81afd7622e807cb33985c428a"
+    }
+]
